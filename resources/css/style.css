@@ -18,7 +18,12 @@ a {
   color: Aquamarine;
 }
 
-travel.h1 {
-  font-size: 150 px;
+.video {
   font-weight: normal;
+  font-size: 50px;
+}
+
+.travel, .announcement {
+  font-weight: 300;
+  font-size: 42px;
 }
