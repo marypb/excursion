@@ -1,0 +1,24 @@
+body {
+  background-color: black;
+  font-family: verdana;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: gray;
+  font-size: 21px;
+  font-weight: normal;
+}
+
+a {
+  color: Aquamarine;
+}
+
+travel.h1 {
+  font-size: 150 px;
+  font-weight: normal;
+}
